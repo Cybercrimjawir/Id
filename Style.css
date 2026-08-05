@@ -81,3 +81,15 @@ text-decoration:none;
 a:hover{
 color:white;
 }
+
+#typing{
+
+font-size:22px;
+
+color:#00ff00;
+
+white-space:pre-wrap;
+
+text-shadow:0 0 8px #00ff00;
+
+}
